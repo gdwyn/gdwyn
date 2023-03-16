@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://user-images.githubusercontent.com/104990430/225735499-df09381e-fe5e-4b5a-bd68-3db589777c15.png" height="200"/>
 </p>
 <h1 align="center"><b>Hi , I'm Godwin Ebri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
