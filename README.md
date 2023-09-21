@@ -1,10 +1,14 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/104990430/225735499-df09381e-fe5e-4b5a-bd68-3db589777c15.png" height="200"/>
+<!--   <img src="https://user-images.githubusercontent.com/104990430/225735499-df09381e-fe5e-4b5a-bd68-3db589777c15.png" height="200"/> -->
+<img width="325" alt="g3" src="https://github.com/godwinnebri/godwinnebri/assets/104990430/cf505ee7-d43f-46b1-8ef5-31476f488e51">
+
+
+
 </p>
 <h1 align="center"><b>Hi , I'm Godwin Ebri </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mobile+developer..&hearts;++;Flutter+Developer,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mobile+developer..&hearts;++;Swift + Flutter+Developer,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 	
 <!-- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
