@@ -6,4 +6,4 @@
 
 Hi, I'm Godwin.
 
-I spend most of my time building mobile apps and [designing](https://layers.to/godwinebri)
+I spend most of my time building mobile apps and [designing](https://layers.to/gdwyn)
